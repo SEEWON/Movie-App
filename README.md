@@ -1,3 +1,3 @@
 # react-movieappcoding
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-movieappcoding)
+Made by SEEWON YOO
