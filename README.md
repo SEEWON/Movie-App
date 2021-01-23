@@ -1,2 +1,4 @@
-# react-movieappcoding
-Simple movie app made with react
+# Movie-App
+Simple movie app written with react
+
+My first React app
